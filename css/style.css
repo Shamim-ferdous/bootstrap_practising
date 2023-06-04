@@ -1,0 +1,36 @@
+.box{
+	height: 50px;
+	background-color: coral;
+	margin-bottom: 5px;
+}
+.box1{
+	height: 100px;
+	background-color: coral;
+	margin-bottom: 5px;
+	font-size: 50px;
+	color: white;
+}
+.mh_ca{
+	height: 400px;
+	background-color: #ddd;
+	margin-bottom: 5px;
+}
+h1{
+	height: 100px;
+	background-color: red;
+}
+.box3{
+	height: 200px;
+	width: 200px;
+}
+.d_flex{
+	height: 70px;
+	background-color: #ddd;
+}
+
+
+.bi{
+	font-size: 50px;
+	color: darkseagreen;
+}
+
